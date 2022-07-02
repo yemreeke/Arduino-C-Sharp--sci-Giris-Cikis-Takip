@@ -1,0 +1,56 @@
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe.config
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.pdb
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Properties.Resources.resources
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.exe
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.pdb
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Form1.resources
+C:\Users\Emre\source\repos\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.ResolveComReference.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe.config
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.pdb
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.ResolveComReference.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Form1.resources
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Properties.Resources.resources
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.exe
+C:\Users\Emre\OneDrive\BlueGrays Projeler\C# RFID Kart işçi Excel Proje\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.pdb
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe.config
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.pdb
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Form1.resources
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Properties.Resources.resources
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.exe
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.pdb
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe.manifest
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.application
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.exe.manifest
+C:\Users\Emre\Desktop\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.application
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe.config
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe.manifest
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.application
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.exe
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\bin\Debug\GecisSistemi.pdb
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Form1.resources
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.Properties.Resources.resources
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.exe.manifest
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.application
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.exe
+C:\Users\Emre\Desktop\Son\GecisSistemi\GecisSistemi\obj\Debug\GecisSistemi.pdb
